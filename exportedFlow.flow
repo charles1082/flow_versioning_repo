@@ -1,7 +1,7 @@
 {
   "type": "flopack",
   "version": "1.3.0",
-  "created": "2021-02-17T19:45:08.391Z",
+  "created": "2021-02-17T21:08:23.095Z",
   "flags": {
     "auto-transform": true,
     "looseBooleans": true,
@@ -10,13 +10,13 @@
   },
   "data": {
     "flos": {
-      "1ad607ef-b811-4720-8bbf-edf4667af808": {
-        "id": "1ad607ef-b811-4720-8bbf-edf4667af808",
+      "b43ced8b-1a19-4fc8-8c6f-32c468c4ec3e": {
+        "id": "b43ced8b-1a19-4fc8-8c6f-32c468c4ec3e",
         "name": "Exported Notification Flow",
         "description": "",
         "data": {
           "id": null,
-          "uuid": "1ad607ef-b811-4720-8bbf-edf4667af808",
+          "uuid": "b43ced8b-1a19-4fc8-8c6f-32c468c4ec3e",
           "display": {
             "preview": [
               {
@@ -101,7 +101,7 @@
                     "description": null
                   },
                   "meta": {},
-                  "config": "425b8661-83ce-45bd-9e7a-ce1aea47cbb9",
+                  "config": "103195c8-f724-4cd7-a0ae-2802208ee2d5",
                   "partnerChannelKeys": 103,
                   "inputs": {
                     "extensible": false,
@@ -1861,7 +1861,7 @@
           "log": true,
           "inheritLog": true,
           "scheduled": false,
-          "group": "ba5a49e3-759a-41a3-99ec-ff4ee4e6eacd",
+          "group": "c7ece81a-e8ec-4815-97ae-1f2485e431fe",
           "templateName": null,
           "connector_method_meta": {
             "inputs": {},
@@ -1873,8 +1873,8 @@
       }
     },
     "configs": {
-      "425b8661-83ce-45bd-9e7a-ce1aea47cbb9": {
-        "id": "425b8661-83ce-45bd-9e7a-ce1aea47cbb9",
+      "103195c8-f724-4cd7-a0ae-2802208ee2d5": {
+        "id": "103195c8-f724-4cd7-a0ae-2802208ee2d5",
         "name": "viktoriya-okta",
         "module": "okta",
         "data": null
@@ -1882,8 +1882,8 @@
     },
     "tables": {},
     "groups": {
-      "ba5a49e3-759a-41a3-99ec-ff4ee4e6eacd": {
-        "id": "ba5a49e3-759a-41a3-99ec-ff4ee4e6eacd",
+      "c7ece81a-e8ec-4815-97ae-1f2485e431fe": {
+        "id": "c7ece81a-e8ec-4815-97ae-1f2485e431fe",
         "data": {
           "name": "abc",
           "description": "",
@@ -1892,5 +1892,5 @@
       }
     }
   },
-  "checksum": "908a418b6d4a87bb778e28f4bdbc839132e41b0774579dba128a12a71e42e8f3"
+  "checksum": "79321747288fafcedd9c9f9839fc432e73bde67e7a859f23742f4a92522a1dea"
 }
