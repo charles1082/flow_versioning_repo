@@ -1,0 +1,5 @@
+{
+  "message": "Server error.",
+  "data": "TypeError: lib.middleware.ratelimiter is not a function\n    at /srv/app/app.js:601:62\n    at Layer.handle [as handle_request] (/srv/app/node_modules/express/lib/router/layer.js:95:5)\n    at next (/srv/app/node_modules/express/lib/router/route.js:137:13)\n    at checkAccessControl (/srv/app/lib/helpers/application.js:13:9)\n    at fn (/srv/app/node_modules/async/lib/async.js:638:34)\n    at Immediate._onImmediate (/srv/app/node_modules/async/lib/async.js:554:34)\n    at processImmediate (internal/timers.js:461:21)",
+  "code": 500
+}
